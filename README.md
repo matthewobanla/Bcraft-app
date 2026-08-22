@@ -54,3 +54,36 @@ Traditional graphic design tools collapse when tasked with merging dynamic sprea
 ---
 
 ## 🛠️ System Architecture
+---
+
+## 💻 Tech Stack & Engineering
+
+| Layer | Technologies Used |
+| :--- | :--- |
+| **Frontend Framework** | React 18 (TypeScript), Tailwind CSS |
+| **Rendering Engine** | HTML5 Canvas 2D API, Custom Matrix Transformation Engine |
+| **Artificial Intelligence** | Google Gemini Vision API (`@google/genai`) |
+| **Cloud & Database** | Firebase Authentication, Google Cloud Firestore, Security Rules |
+| **Export & Processing** | JSZip, Canvas-to-Blob, PDF rendering, Web Workers |
+| **Icons & Assets** | Lucide React, Hugeicons SVG Library |
+
+---
+
+## 🌐 Live Preview & Demo
+
+Experience the live application:
+🔗 **[Launch BatchCraft Studio](https://ais-pre-437izbt4k67ix2wkjckcm3-285159751481.europe-west2.run.app)**
+
+---
+
+## 🔒 Source Code & Proprietary Notice
+
+> *Note: The complete source code and backend infrastructure for BatchCraft Studio are maintained in a private repository. This showcase repository documents the technical architecture, features, and engineering design for portfolio purposes.*
+
+---
+
+<div align="center">
+
+Crafted with precision by **[Matthew Obanla](https://github.com/matthewobanla)**
+
+</div>
