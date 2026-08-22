@@ -84,6 +84,6 @@ Experience the live application:
 
 <div align="center">
 
-Crafted with precision by **[Matthew Obanla](https://github.com/matthewobanla)**
+Designed by **[Matthew Obanla](https://github.com/matthewobanla)**
 
 </div>
